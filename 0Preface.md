@@ -1,4 +1,4 @@
-**The most valuable acquisitions in a scientific or technical education are the general-purpose mental tools which remain serviceable for a life-time. (George Forsythe, "What to do till the computer scientist comes" (1968))**
+*The most valuable acquisitions in a scientific or technical education are the general-purpose mental tools which remain serviceable for a life-time. (George Forsythe, "What to do till the computer scientist comes" (1968))*
 
 
 
