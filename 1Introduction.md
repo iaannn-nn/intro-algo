@@ -1,7 +1,7 @@
 *Two ideas like gleaming on the jeweler's velvet. The first is the calculus, the second, the algorithm. The calculus and the rich body of mathematical analysis to which it gave rise made modern science possible; but it has been the algorithm that has made possible the modern world. David Berlinski, The Advent of the Algorithm, 2000*
 
 **Why do you need to study algorithm?**
-0.  Algorithm: a special kind of solutions to problems. not just answers but precisely defined procedures for getting answers
+0.  Algorithm: a special kind of solutions to problems. **not just answers but precisely defined procedures for getting answers**
 1. Algorithmics(The study of algorithms)is the cornerstone of computer science
 2. Computer programs would not exist without algorithms
 3. As computer applications becoming indispensable, studying algorithms becomes more necessary now.
